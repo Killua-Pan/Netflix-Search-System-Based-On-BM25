@@ -1,7 +1,7 @@
 # Netflix-Search-System-Based-On-BM25
 Netflix Moive/TV Show recommondation system by DM25
 # Problem Statement and Approach.
-Technology has changed the way people live their everyday lives. It's present in almost everything you do, from how you communicate to how you perform your day-to-day tasks. Just like it has for a lot of other industries, technology has completely changed the film/TV Show industry – from the ways they get made, to how they are edited, to the ways audiences watch them. However, sometimes by just seeing the name of the movie/TV Show we are not able to know what that movie/TV Show is talking about. In other words, we are not able to use the keywords to look up a movie/TV Show we’ve interested.
+Technology has changed the way people live their everyday lives. It's present in almost everything you do, from how you communicate to how you perform your day-to-day tasks. Just like it has for a lot of other industries, technology has completely changed the film/TV Show industry – from the ways they get made, to how they are edited, to the ways audiences watch them. However, sometimes by just looking at the name of the movie/TV Show we are not able to know what that movie/TV Show is talking about. In other words, we are not able to use the keywords to look up a movie/TV Show we’ve interested.
 
 So the scope of this project will be using various information retrieval techniques, by given any keywords, finding the most relevant movie/TV Show on Netflix。
 
